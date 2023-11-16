@@ -7,4 +7,9 @@
 4. create account feature
 5. add to cart and remove from cart feature in product page
 6. grid and flex property
-! [Home Page] (home page look.png)
+
+# Home page image
+Inline-style: 
+![Home page](RtC.png)
+
+ 
