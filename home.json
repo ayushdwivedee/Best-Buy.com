@@ -1,0 +1,93 @@
+[
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/dam/mybbymembership_techblack_topdeals-99c13475-5626-4bb0-ba30-05d62792caa0.png;maxHeight=370;maxWidth=370",
+    "text":"Exclusive Member Deals",
+    "text_url":"https://www.bestbuy.com/site/top-deals/member-exclusive-deals/pcmcat1651770167686.c?id=pcmcat1651770167686"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/dam/ghp-img-icons-laptop-7d08a055-6252-465a-9535-2f1182410434.jpg;maxHeight=370;maxWidth=370",
+    "text":"Laptops & Computers",
+    "text_url":"https://www.bestbuy.com/site/promo/laptop-and-computer-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6501/6501902_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"TVs & Projectors",
+    "text_url":"https://www.bestbuy.com/site/promo/tv-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6562/6562643_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Video Games, VR & Collectibles",
+    "text_url":"https://www.bestbuy.com/site/promo/video-game-and-vr-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6549/6549888_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Major Appliances",
+    "text_url":"https://www.bestbuy.com/site/home-appliances/major-appliances-sale-event/pcmcat321600050000.c?id=pcmcat321600050000"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509650_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Apple",
+    "text_url":"https://www.bestbuy.com/site/top-deals/apple-deals/pcmcat1563304364690.c?id=pcmcat1563304364690"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6529/6529721_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Cell Phones & Accessories",
+    "text_url":"https://www.bestbuy.com/site/top-deals/cell-phone-deals/pcmcat1563302848653.c?id=pcmcat1563302848653"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6332/6332173_rd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Headphones",
+    "text_url":"https://www.bestbuy.com/site/promo/headphone-and-speaker-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6557/6557560_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"PC Gaming",
+    "text_url":"https://www.bestbuy.com/site/promo/pc-gaming-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464584_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Tablets & E-Readers",
+    "text_url":"https://www.bestbuy.com/site/promo/tablet-and-e-reader-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6551/6551333cv12d.jpg;maxHeight=370;maxWidth=370",
+    "text":"Sound Bars, Bluetooth Speakers & Home Audio",
+    "text_url":"https://www.bestbuy.com/site/promo/home-theater-and-streaming-devices-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6323/6323758_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Cameras, Camcorders & Drones",
+    "text_url":"https://www.bestbuy.com/site/promo/camera-and-camcorder-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494386ld.jpg;maxHeight=370;maxWidth=370",
+    "text":"Wearable Technology",
+    "text_url":"https://www.bestbuy.com/site/promo/wearable-technology-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6472/6472004_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Small Appliances, Floor Care & Home Air Quality",
+    "text_url":"https://www.bestbuy.com/site/promo/small-appliance-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6441/6441424_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Smart Home, Security & Wi-Fi",
+    "text_url":"https://www.bestbuy.com/site/promo/smart-home-wi-fi-security-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6540/6540778_sd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Printers & Computer Accessories",
+    "text_url":"https://www.bestbuy.com/site/promo/printer-and-home-office-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6522/6522477_rd.jpg;maxHeight=370;maxWidth=370",
+    "text":"Electric Transportation",
+    "text_url":"https://www.bestbuy.com/site/promo/hoverboards-and-electric-scooters-deals"
+    },
+    {
+    "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470759ld.jpg;maxHeight=370;maxWidth=370",
+    "text":"Collectibles & Toys",
+    "text_url":"https://www.bestbuy.com/site/promo/tech-toy-and-drone-deals"
+    }
+    ]
+    

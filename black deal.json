@@ -1,0 +1,196 @@
+[
+    {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6535/6535748_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"HP - Envy 2-in-1 15.6 Full HD Touch-Screen Laptop - AMD Ryzen 5 7530U - 8GB Memory - 256GB SSD - Nightfall Black",
+        "price":"$499.99",
+         "cat":"Laptop"
+
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6535/6535746_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"HP - Envy 2-in-1 15.6 Full HD Touch-Screen Laptop - AMD Ryzen 7 7730U - 16GB Memory - 512GB SSD - Nightfall Black",
+        "price":"$649.99",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6533/6533954_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Lenovo - Slim Pro 7 14 90Hz 2.5K Touch-Screen Laptop -AMD Ryzen 7 7735HS - NVIDIA GeForce RTX 3050 with 16GB Memory - 512GB SSD - Storm Grey",
+        "price":"$899.99",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6531/6531742_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Lenovo - Slim 3 Chromebook 14 FHD Touch-Screen Laptop - MediaTek Kompanio 520 - 4GB Memory - 64GB eMMC - Abyss Blue",
+        "price":"$549.99",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470349_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Acer - Chromebook 317 Laptop-17.3 FHD IPS Touch Display-Intel Pentium Silver N6000 Processor-8GB LPDDR4X-64GB eMMC- WiFi6 - Gray",
+        "price":"$299.00",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6530/6530235_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Acer - Aspire 3 Thin & Light Laptop - 15.6 Full HD IPS Touch Display - AMD Ryzen 5 7520U - 8GB LPDDR5 - 512GB SSD - Wi-Fi 6 - Steam Blue",
+        "price":"$399.99",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534605_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Apple - MacBook Air 15 Laptop - M2 chip - 8GB Memory - 512GB SSD (Latest Model) - Midnight",
+        "price":"$1299.00",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6534/6534615_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Apple - MacBook Pro 14 Laptop - M3 Pro chip - 18GB Memory - 14-core GPU - 512GB SSD (Latest Model) - Space Black",
+        "price":"$1999.00",
+        "cat":"Laptop"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6540/6540585_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Motorola - edge+ 512GB 2023 (Unlocked) - Interstellar Black",
+        "price":"$599.99",
+        
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6539/6539785_sd.jpg;maxHeight=300;maxWidth=300",
+        "text":"Motorola - moto g stylus 2023 64GB (Unlocked) - Midnight Blue",
+        "price":"$129.99",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6417/6417788_sd.jpg;maxHeight=300;maxWidth=300",
+        "text":"Apple - iPhone 13 5G 128GB (Unlocked) - Midnight",
+        "price":"$579.99",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6551/6551233_sd.jpg;maxHeight=300;maxWidth=300",
+        "text":"Apple - Pre-Owned iPhone 13 Pro 5G 128GB (Unlocked) - Graphite",
+        "price":"$799.99",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6559/6559243_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Google - Pixel 8 128GB (Unlocked) - Hazel",
+        "price":"$699.00",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6559/6559251_sd.jpg;maxHeight=300;maxWidth=300",
+        "text":"This Product Google - Pixel 8 Pro 128GB (Unlocked) - Obsidian",
+        "price":"$999.00",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6531/6531256_sd.jpg;maxHeight=300;maxWidth=300",
+        "text":"OnePlus - 11 5G 256GB (Unlocked) - Eternal Green",
+        "price":"$629.99",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6543/6543735_sd.jpg;maxHeight=144;maxWidth=200",
+        "text":"OnePlus - Nord N30 5G 128GB (Unlocked) - Chromatic Gray",
+        "price":"$229.99",
+        "cat":"Mobile"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6505/6505727_rd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Sony - WH1000XM5 Wireless Noise-Canceling Over-the-Ear Headphones - Black",
+        "price":"$329.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6383/6383124_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Beats by Dr. Dre - Solo³ The Beats Icon Collection Wireless On-Ear Headphones - Matte Black",
+        "price":"$129.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6397/6397391_rd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Beats by Dr. Dre - Beats Fit Pro True Wireless Noise Cancelling In-Ear Earbuds - Black",
+        "price":"$179.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6515/6515476_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Soundcore - Life Note 3i Noise Canceling True Wireless Earbud Headphones by Anker - Black",
+        "price":"$34.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6383/6383136_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Beats by Dr. Dre - Beats Flex Wireless Earphones - Black",
+        "price":"$49.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6341/6341024_rd.jpg;maxHeight=300;maxWidth=300",
+        "text":"Sony - WIC310 Wireless In-Ear Headphones - Black",
+        "price":"$39.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6538/6538379_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Sony - WH1000XM5 Wireless Noise-Canceling Over-the-Ear Headphones - Blue",
+        "price":"$329.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/8618/8618364_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Sony - ZX Series Wired On-Ear Headphones - White",
+        "price":"$9.99",
+        "cat":"Headphone"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6510/6510162cv17d.jpg;maxHeight=400;maxWidth=600",
+        "text":"Amazfit - Bip 3 Pro Smartwatch 42.9mm Polycarbonate Plastic - Black",
+        "price":"$54.99",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6508/6508378_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Amazfit - T-Rex 2 Outdoor Smartwatch 35.3mm Polymer Alloy - Ember Black",
+        "price":"$179.99",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6514/6514032_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Fitbit - Versa 4 Fitness Smartwatch - Graphite",
+        "price":"$149.95",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6559/6559662_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Fitbit - Charge 6 Advanced Fitness & Health Tracker - Obsidian",
+        "price":"$99.95",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6494/6494665ld.jpg;maxHeight=400;maxWidth=600",
+        "text":"Garmin - Instinct 2 45 mm Smartwatch Fiber-reinforced Polymer - Graphite",
+        "price":"$199.99",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6466/6466525_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Garmin - Forerunner 55 GPS Smartwatch 42mm Fiber-Reinforced Polymer - Black",
+        "price":"$169.99",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6535/6535645_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Amazfit GTR 4 Smartwatch 36.2mm Aluminum Alloy - Black",
+        "price":"$169.99",
+        "cat":"Watch"
+     },
+     {
+        "image":"https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6453/6453258_sd.jpg;maxHeight=400;maxWidth=600",
+        "text":"Fitbit - Ace 3 Activity Tracker for Kids - Cosmic Blue",
+        "price":"$49.95",
+        "cat":"Watch"
+     }
+]
